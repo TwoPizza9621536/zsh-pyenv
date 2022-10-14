@@ -11,7 +11,7 @@ zsh plugin manager which is `$ZSH_CUSTOM`, the following is for
 [Oh My Zsh](https://ohmyz.sh/) which is `~/.oh-my-zsh/custom/plugins`.
 
 ```bash
-git clone https://github.com/TwoPizza9621536/zsh-pyenv.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/exa
+git clone https://github.com/TwoPizza9621536/zsh-pyenv.git ${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/plugins/pyenv
 ```
 
 Finally, add pyenv to the plugins array of your zshrc file:
